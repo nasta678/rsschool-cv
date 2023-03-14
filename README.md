@@ -1,1 +1,2 @@
-# https://nasta678.github.io/rsschool-cv/cv
+
+https://nasta678.github.io/rsschool-cv/
