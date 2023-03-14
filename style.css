@@ -1,0 +1,35 @@
+body {
+    font-family: "Montserrat";
+    font-size: 22px;
+    background-color: rgb(193, 211, 231);
+}
+
+.container {
+    margin: 20px auto;
+    width: 900px;
+}
+
+.maininfo {
+    display: flex;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+
+.round {
+    border-radius: 74px;
+    border: solid 0px;
+    box-shadow: 0 0 20px rgb(84, 112, 145);
+}
+
+.name {
+    margin: auto;
+}
+
+.contacts {
+    border-bottom: 1px solid;
+    padding: 30px;
+}
+
+h3 {
+    margin: 0;
+}
